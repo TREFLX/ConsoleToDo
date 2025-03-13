@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "text": "Купить молока",
+    "completed": true
+  },
+  {
+    "id": 2,
+    "text": "Купить хлеб",
+    "completed": false
+  },
+  {
+    "id": 3,
+    "text": "Купить дом",
+    "completed": false
+  }
+]
