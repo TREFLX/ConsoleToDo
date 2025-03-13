@@ -8,7 +8,7 @@ import (
 	"strings"
 )
 
-var summCompleted int = 0
+var summCompleted int = 0 // Переменная для работы функции с выполнеными задачами
 
 type Task struct {
 	ID        int    `json:"id"`
